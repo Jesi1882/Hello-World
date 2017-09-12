@@ -1,3 +1,11 @@
+.header{
+ font-family:Helvetica;
+}
+.body {
+  color: white;
+}
+
+
 .fullscreen-bg {    
 position: fixed;    
 top: 0;   
